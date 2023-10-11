@@ -1,5 +1,5 @@
 <a href="https://sajadh.vercel.app">
-  <img src="https://media.licdn.com/dms/image/D5616AQE2pfudvbLCgg/profile-displaybackgroundimage-shrink_350_1400/0/1694622020100?e=1700092800&v=beta&t=Xga6W3otdXxQUbzl-NntjANvR6qL5USjcEkkIfn_DcU">
+  <img src="https://media.licdn.com/dms/image/D5616AQHzwMdogEKpvA/profile-displaybackgroundimage-shrink_350_1400/0/1696684293402?e=1702512000&v=beta&t=n-GHoqsKHo5yXrmX4d7Ok0M4pxgn9qBOCYVSOEKo7m4">
 </a>
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" />, I'm Sajadh S</h1>
