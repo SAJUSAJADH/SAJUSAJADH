@@ -24,7 +24,7 @@
     <img src="https://res.cloudinary.com/divzjiip8/image/upload/v1624392472/logos/ethers_blue.png" alt="ethersjs" width="40" height="40"/>
   </a>
   <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
-    <img src="https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhardhat-logo.5c5f687b.svg&w=256&q=75" alt="hardhat" width="40" height="40"/>
+    <img src="https://i.pinimg.com/474x/2b/3a/ee/2b3aee1d782542c81be33d01f9bef844.jpg" alt="hardhat" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
