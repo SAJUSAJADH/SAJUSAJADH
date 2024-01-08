@@ -21,7 +21,7 @@
     <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="solidity" width="40" height="40"/>
   </a>
   <a href="https://docs.ethers.org/v6/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" alt="ethersjs" width="40" height="40"/>
+    <img src="https://res.cloudinary.com/divzjiip8/image/upload/v1624392472/logos/ethers_blue.png" alt="ethersjs" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
