@@ -13,7 +13,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SAJUSAJADH&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SAJUSAJADH&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAJUSAJADH&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAJUSAJADH&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact&cache_seconds=14400)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SAJUSAJADH&icon=1&color=0)](https://visitcount.itsvg.in)
