@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼Software Engineer at Techosa Edu Solutions Pvt. Ltd.<br>👨🏻‍🎓 Studied Computer Applications at the University of Kerala, India<br>👨🏻‍💻 Passionate Blockchain developer.<br>🤝 #Crafting trust in the digital world, one block at a time.
+💼Software Engineer at Techosa Edu Solutions Pvt. Ltd.<br>👨🏻‍🎓 Studied Computer Applications at the University of Kerala, India<br>👨🏻‍💻 Passionate in mobile, web and blockchain development.
 
 
 ## 🌐 Socials:
